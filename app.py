@@ -56,7 +56,7 @@ def main():
 
     if uploaded_file is not None:
         if uploaded_file.name != st.session_state.current_file_name:
-            reset_state()
+
             st.session_state.current_file_name = uploaded_file.name
             st.info(f"New file uploaded: {uploaded_file.name}. Ready to process.")
             st.rerun()

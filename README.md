@@ -1,8 +1,8 @@
 # Comment Moderation System (Groq/Gemma 2)
 
-# Project Deprecated: Use `hate-speech-detection-app` instead
+# Project Deprecated: Use the deployed app directly
 
-**This project is no longer actively maintained. Please use the newer version available at [hate-speech-detection-app](link-to-new-repo) for the latest features and updates.**
+**This project's GitHub repository is available for reference, but you can directly access the deployed application here: [Hate Comment Detector](https://hate-comment-detector.streamlit.app/)**
 
 ---
 
@@ -24,17 +24,17 @@ Create a Python application that reads user comments from a local file (CSV or J
 -   Interactive web interface using Streamlit for easy file upload and result browsing.
 -   Progress bar indicates analysis progress during sequential processing.
 
-## Prerequisites
+## Prerequisites (for local development)
 
 -   Python 3.8 or higher
 -   Groq API key (sign up at [https://console.groq.com/](https://console.groq.com/))
 -   Required Python packages (listed in `requirements.txt`)
 
-## Installation
+## Installation (for local development)
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/your-username/Hate-Speech-Detector.git # Replace with your repo URL
+    git clone https://github.com/Raj-Shriwastav/Hate-Speech-Detector.git
     cd Hate-Speech-Detector
     ```
 
@@ -48,7 +48,7 @@ Create a Python application that reads user comments from a local file (CSV or J
     GROQ_API_KEY=your_groq_api_key_here
     ```
 
-## Usage
+## Usage (for local development)
 
 1.  Ensure your `.env` file is correctly set up with your Groq API key.
 

@@ -1,0 +1,252 @@
+[
+  {
+    "comment_id": 1,
+    "username": "techfan22",
+    "comment_text": "This product exceeded all my expectations! The battery life is incredible."
+  },
+  {
+    "comment_id": 2,
+    "username": "disappointed_user",
+    "comment_text": "Absolute garbage. Don't waste your money on this trash."
+  },
+  {
+    "comment_id": 3,
+    "username": "reviewer443",
+    "comment_text": "I've been using this for a month and it works as advertised. No complaints."
+  },
+  {
+    "comment_id": 4,
+    "username": "angry_customer",
+    "comment_text": "This company is a joke! Their customer service is non-existent and they refuse to help with obvious defects."
+  },
+  {
+    "comment_id": 5,
+    "username": "objective_buyer",
+    "comment_text": "Decent quality for the price. Not amazing but does the job adequately."
+  },
+  {
+    "comment_id": 6,
+    "username": "tech_guru",
+    "comment_text": "As a professional in this field, I can confidently say this is the best solution currently available."
+  },
+  {
+    "comment_id": 7,
+    "username": "hateful_troll",
+    "comment_text": "Only stupid people would buy this. If you purchased this you're an idiot and probably should kill yourself."
+  },
+  {
+    "comment_id": 8,
+    "username": "casual_user",
+    "comment_text": "Works fine for my needs, though the interface could be more intuitive."
+  },
+  {
+    "comment_id": 9,
+    "username": "power_user87",
+    "comment_text": "Great for advanced users but probably overwhelming for beginners."
+  },
+  {
+    "comment_id": 10,
+    "username": "toxic_reviewer",
+    "comment_text": "What a joke! The developers must be retarded to release something this broken."
+  },
+  {
+    "comment_id": 11,
+    "username": "value_hunter",
+    "comment_text": "Excellent value proposition. You get much more than what you pay for."
+  },
+  {
+    "comment_id": 12,
+    "username": "neutral_observer",
+    "comment_text": "It has some pros and cons. Overall a middle-of-the-road product."
+  },
+  {
+    "comment_id": 13,
+    "username": "offended_user",
+    "comment_text": "I find this product's marketing campaign extremely offensive to minority groups."
+  },
+  {
+    "comment_id": 14,
+    "username": "detailed_reviewer",
+    "comment_text": "After extensive testing, I found performance to be adequate under normal conditions but inadequate under heavy loads."
+  },
+  {
+    "comment_id": 15,
+    "username": "racist_commenter",
+    "comment_text": "This company only hires certain ethnicities. They discriminate against real Americans. Typical!"
+  },
+  {
+    "comment_id": 16,
+    "username": "new_user",
+    "comment_text": "Just got this yesterday. So far so good but need more time to form a full opinion."
+  },
+  {
+    "comment_id": 17,
+    "username": "frustrated_buyer",
+    "comment_text": "Extremely disappointing. Feels cheaply made and broke within a week."
+  },
+  {
+    "comment_id": 18,
+    "username": "returning_customer",
+    "comment_text": "This is my third purchase from this company. Always reliable quality."
+  },
+  {
+    "comment_id": 19,
+    "username": "profanity_user",
+    "comment_text": "What the f**k is wrong with this sh*tty product? Absolute garbage from a f**king terrible company."
+  },
+  {
+    "comment_id": 20,
+    "username": "tech_skeptic",
+    "comment_text": "Not convinced this is better than previous generations. Seems like a cash grab."
+  },
+  {
+    "comment_id": 21,
+    "username": "analytical_mind",
+    "comment_text": "Performance metrics show a 23% improvement over competitors, making this a logical choice."
+  },
+  {
+    "comment_id": 22,
+    "username": "bully_online",
+    "comment_text": "Only fat, ugly losers would be interested in this product. Get a life, nerds!"
+  },
+  {
+    "comment_id": 23,
+    "username": "budget_conscious",
+    "comment_text": "Great option for those with limited funds. Does 90% of what premium brands do at half the price."
+  },
+  {
+    "comment_id": 24,
+    "username": "detail_oriented",
+    "comment_text": "The attention to detail in this product is remarkable. Every aspect seems carefully considered."
+  },
+  {
+    "comment_id": 25,
+    "username": "threatening_user",
+    "comment_text": "If I ever meet the person who designed this, they'll regret it. I know where your company is located."
+  },
+  {
+    "comment_id": 26,
+    "username": "sustainability_focused",
+    "comment_text": "Appreciate the eco-friendly packaging and recyclable materials. More companies should follow suit."
+  },
+  {
+    "comment_id": 27,
+    "username": "experienced_user",
+    "comment_text": "Having used similar products for years, I can say this is above average but not revolutionary."
+  },
+  {
+    "comment_id": 28,
+    "username": "conspiracy_theorist",
+    "comment_text": "This company is tracking all your data and selling it to the government. Wake up, sheep!"
+  },
+  {
+    "comment_id": 29,
+    "username": "accessibility_advocate",
+    "comment_text": "The interface is not friendly to those with visual impairments. Please consider accessibility in future updates."
+  },
+  {
+    "comment_id": 30,
+    "username": "hostile_critic",
+    "comment_text": "I hate everything about this. The creators should be ashamed of themselves for this monstrosity."
+  },
+  {
+    "comment_id": 31,
+    "username": "early_adopter",
+    "comment_text": "Always excited to try the latest version. This iteration shows promising improvements."
+  },
+  {
+    "comment_id": 32,
+    "username": "sexist_commenter",
+    "comment_text": "This is clearly designed for women. No real man would ever use something so pathetic and weak."
+  },
+  {
+    "comment_id": 33,
+    "username": "aesthetic_appreciator",
+    "comment_text": "The design is sleek and minimalist. Looks great on my desk and complements my workspace."
+  },
+  {
+    "comment_id": 34,
+    "username": "cautious_buyer",
+    "comment_text": "Waited for several reviews before purchasing. Glad I did, as it lives up to the positive feedback."
+  },
+  {
+    "comment_id": 35,
+    "username": "cyberbully",
+    "comment_text": "Hahaha anyone who buys this deserves to be robbed. What a waste of money, you pathetic consumers."
+  },
+  {
+    "comment_id": 36,
+    "username": "helpful_reviewer",
+    "comment_text": "Pro tip: The performance improves significantly if you adjust the settings described on page 7 of the manual."
+  },
+  {
+    "comment_id": 37,
+    "username": "quality_inspector",
+    "comment_text": "The build quality is superior to most competitors in this price range. Solid construction throughout."
+  },
+  {
+    "comment_id": 38,
+    "username": "religious_zealot",
+    "comment_text": "This product promotes sinful behavior and goes against God's teachings. It should be banned!"
+  },
+  {
+    "comment_id": 39,
+    "username": "tech_journalist",
+    "comment_text": "In my comprehensive review for Tech Monthly, I found this to be a strong contender in its category."
+  },
+  {
+    "comment_id": 40,
+    "username": "political_flamer",
+    "comment_text": "Only liberals/conservatives would buy this garbage. This is what's wrong with America today!"
+  },
+  {
+    "comment_id": 41,
+    "username": "international_user",
+    "comment_text": "Shipping to my country was fast and the product works with our local standards. Very pleased."
+  },
+  {
+    "comment_id": 42,
+    "username": "comparative_shopper",
+    "comment_text": "I've tried five similar products and this ranks second in terms of overall quality and value."
+  },
+  {
+    "comment_id": 43,
+    "username": "harasser",
+    "comment_text": "I'm going to keep commenting until you respond. Why are you ignoring customer complaints? Cowards!"
+  },
+  {
+    "comment_id": 44,
+    "username": "gift_giver",
+    "comment_text": "Purchased this as a gift for my nephew and he absolutely loves it. Great present idea."
+  },
+  {
+    "comment_id": 45,
+    "username": "concerned_parent",
+    "comment_text": "Is this appropriate for children? The marketing doesn't make the target age group clear."
+  },
+  {
+    "comment_id": 46,
+    "username": "violent_language",
+    "comment_text": "This makes me want to punch a wall. I'd like to beat the developers senseless for wasting my money."
+  },
+  {
+    "comment_id": 47,
+    "username": "feature_requester",
+    "comment_text": "Would be perfect if it included the ability to customize the home screen. Please consider adding this."
+  },
+  {
+    "comment_id": 48,
+    "username": "longtime_fan",
+    "comment_text": "Been using products from this company for over a decade. They never disappoint."
+  },
+  {
+    "comment_id": 49,
+    "username": "bot_spam",
+    "comment_text": "Check out amazing deals on similar products at scamwebsite.com! 90% discount with code SCAM123!"
+  },
+  {
+    "comment_id": 50,
+    "username": "balanced_view",
+    "comment_text": "Has strengths and weaknesses. Perfect for some use cases but might not suit everyone's needs."
+  }
+]

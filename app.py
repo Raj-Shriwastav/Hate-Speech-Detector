@@ -29,15 +29,14 @@ def main():
         st.stop()
 
     st.set_page_config(
-        page_title="Comment Moderation System (Groq/Gemma 2)",
+        page_title="Comment Toxicity Checker",
         page_icon="⚡",
         layout="wide"
     )
 
-    st.title("⚡ Comment Moderation System (Groq/Gemma 2)")
+    st.title("⚡ Comment Toxicity Checker")
     st.markdown("""
     Analyzes comments for toxicity using Groq Cloud's Gemma 2 model.
-    Processes comments **sequentially**, ensuring a minimum **3-second interval** between API calls.
     Upload your file (CSV or JSON) and click 'Start Processing'.
     """)
 

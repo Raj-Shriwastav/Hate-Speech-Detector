@@ -15,13 +15,6 @@ if 'current_file_name' not in st.session_state:
 if 'processing_started' not in st.session_state:
     st.session_state.processing_started = False
 
-def reset_state():
-    """Resets the session state for a new file upload."""
-    st.session_state.all_results_df = pd.DataFrame()
-    st.session_state.processing_started = False
-    st.session_state.current_file_name = None
-    st.session_state.file_uploader_key += 1 # Force reset of file_uploader
-
 def main():
     load_dotenv()
 

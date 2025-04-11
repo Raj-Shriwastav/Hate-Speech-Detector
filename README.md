@@ -8,10 +8,6 @@
 
 A Python application built with Streamlit that uses Groq Cloud's Gemma 2 model to detect and analyze toxicity in user comments. The system provides a user-friendly web interface for uploading comment data (CSV or JSON), analyzing comments sequentially, viewing analysis results, and exporting the findings.
 
-## Objective
-
-Create a Python application that reads user comments from a local file (CSV or JSON), uses the Groq API with the Gemma 2 model to detect offensive or inappropriate content, and generates a report of flagged comments via a Streamlit web interface.
-
 ## Features
 
 -   Load and process comments from CSV or JSON files via a Streamlit web interface.

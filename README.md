@@ -1,7 +1,5 @@
 # Comment Moderation System (Groq/Gemma 2)
 
-# Project Deprecated: Use the deployed app directly
-
 **This project's GitHub repository is available for reference, but you can directly access the deployed application here: [Hate Comment Detector](https://hate-comment-detector.streamlit.app/)**
 
 ---
